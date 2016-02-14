@@ -24,5 +24,37 @@
       <pubDate>Sat, 13 Feb 2016 08:44:00 +0000</pubDate>
     </item>
 
+    <item>
+      <title>E04: TDD models</title>
+      <description>
+        TDD of models
+      </description>
+      <enclosure
+        url="http://slothbear.github.io/charity-auction-podcast/audio/e04.mp3"
+        length="8727441"
+        type="audio/mpeg" />
+      <guid isPermaLink="true">
+        E04
+      </guid>
+      <pubDate>Sat, 13 Feb 2016 08:44:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>E05: TDD more models</title>
+      <description>
+        more TDD of models
+      </description>
+      <enclosure
+        url="http://slothbear.github.io/charity-auction-podcast/audio/e05.mp3"
+        length="8727441"
+        type="audio/mpeg" />
+      <guid isPermaLink="true">
+        E05
+      </guid>
+      <pubDate>Sat, 13 Feb 2016 08:44:00 +0000</pubDate>
+    </item>
+
+
+
   </channel>
 </rss>
